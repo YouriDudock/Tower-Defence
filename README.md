@@ -1,8 +1,11 @@
 # Tower Defence
-A basic tower defence game written in Java using the LibGDX framework.
+A basic 2D tower defence game written in Java using the LibGDX framework.
 
 ## Goal
 The goal of this project was to write a basic framework for the Java LibGDX framework. It includes features such as rendering, game events, camera controlling, projectiles and much more! The tower defence game was created to drive the force of the framework development in a fun way. The idea is that the game could be transfered to something completely else, while still retaining basic game functionality. 
+
+## Setup
+Clone and open the complete repository in an IDE. Compile and run the DesktopLauncher in the 'desktop' source.
 
 ## Features
 A short summary of all the features can be found below.
