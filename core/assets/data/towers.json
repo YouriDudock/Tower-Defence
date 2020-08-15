@@ -1,0 +1,22 @@
+[
+  {
+    "ID": 1,
+    "damage": 1,
+    "price": 100,
+    "name":"Test Tower",
+    "spriteName":"tower.png",
+    "width": 4,
+    "height": 4,
+    "range": 30
+  },
+  {
+    "ID": 2,
+    "damage": 1,
+    "price": 100,
+    "name":"test name",
+    "spriteName":"sprite.png",
+    "width": 1,
+    "height": 1,
+    "range": 30
+  }
+]
