@@ -19,6 +19,7 @@ A short summary of all the features can be found below.
 * Game event system with priority (ex: player death)
 
 ### Game
+* Entity spawning/despawning
 * Entity order system, force certain entities to follow game orders (ex: walk, find and kill) 
 * Following projectiles
 * Game HUD
